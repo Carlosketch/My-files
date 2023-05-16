@@ -7,7 +7,7 @@ some description!....
   <head>Firt page
     <title></title>
     <meta />
-    <link></link>
+    <link rel="stylesheets"  href="styles.css ">
     <scripts></scripts>
   </head>
   <body></body>
